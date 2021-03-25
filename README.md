@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Emmanoe DELAR</h1>
 <h3 align="center">A :fr: Full Stack developer :computer: in Bordeaux :wine_glass:</h3>
-<h3 align="center">Working :man_technologist: at <a href="https://www.cis-valley.fr/">CGI</a></h3>
+<h3 align="center">Working :man_technologist: at <a href="https://www.cgi.fr/fr-fr/">CGI</a></h3>
 
 
 <p align="left"> 
-  <img src="https://media-exp1.licdn.com/dms/image/C4D03AQGUEkLOE5AOFA/profile-displayphoto-shrink_400_400/0/1561975796384?e=1622073600&v=beta&t=5Dk0naEZfYoVGPqxeoKcSO13rS0r3a8oe9q_PvDb44w" />
+  <img src="https://komarev.com/ghpvc/?username=emmanoe&label=Profile%20views&color=0e75b6&style=flat" alt="ldelavois" />
 </p>
 
 
