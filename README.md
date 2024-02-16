@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanoe DELAR</h1>
-<h3 align="center">A :fr: Full Stack developer :computer: in Bordeaux :wine_glass:</h3>
+<h3 align="center">A French :fr: Data Engineer :computer: living in Bordeaux :wine_glass:</h3>
 <h3 align="center">Working :man_technologist: at <a href="https://www.thalesgroup.com/fr">THALES</a></h3>
 
 
