@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm edelar001</h1>
+<h1 align="center"> hello 👋 i'm edelar001</h1>
 
 ![edelar001](https://github.com/emmanoe/emmanoe/blob/main/header.png)
 
@@ -7,17 +7,14 @@
   <img src="https://komarev.com/ghpvc/?username=emmanoe&label=Profile%20views&color=0e75b6&style=flat" alt="emmanoe" />
 </p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmanoe" alt="emmanoe" /></a> </p>
-
 - :books: I’m currently learning **Artificial Intelligence Professional Program from Stanford School of Engineering**
 
--<!-- 👨‍💻 Look at my developer portfolio at <a href="https://delavois.com" target="_blank">delavois.com</a>-->
+- 👨‍💻 Look at my developer portfolio at <a href="https://delavois.com](https://edelar001.netlify.app/" target="_blank">edelar001.netlify.app</a>
 
 - 📫 How to reach me **emmanoe.delar@gmail.com**
 - 📄 Know about my experiences <a href="https://www.linkedin.com/in/emmanoe-delar-241524189/" target="_blank">on Linkedin</a>
 
-- My hobbies: :tennis: :soccer: :surfer: :video_game:
+- My hobbies: :soccer: :surfer: :video_game:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
