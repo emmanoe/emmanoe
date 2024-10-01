@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Emmanoe DELAR</h1>
-<h3 align="center">A French :fr: Data Engineer :computer: living in Bordeaux :wine_glass:</h3>
+<h1 align="center">Hi 👋, I'm edelar001</h1>
+
+![edelar001](https://github.com/emmanoe/emmanoe/blob/main/header.png)
 
 
 <p align="left"> 
@@ -9,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmanoe" alt="emmanoe" /></a> </p>
 
-- :books: I’m currently learning **Angular, Vue.JS and React**
+- :books: I’m currently learning **Artificial Intelligence Professional Program from Stanford School of Engineering**
 
 -<!-- 👨‍💻 Look at my developer portfolio at <a href="https://delavois.com" target="_blank">delavois.com</a>-->
 
