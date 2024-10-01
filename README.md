@@ -9,7 +9,7 @@
 
 - :books: I’m currently learning **Artificial Intelligence Professional Program from Stanford School of Engineering**
 
-- 👨‍💻 Look at my developer portfolio at <a href="https://edelar001.netlify.app/" target="_blank">edelar001.netlify.app</a>
+- 👨‍💻 I'm currently a professional Data Engineer, check out my developer portfolio at <a href="https://edelar001.netlify.app/" target="_blank">edelar001.netlify.app</a>
 
 - 📫 How to reach me **emmanoe.delar@gmail.com**
 - 📄 Know about my experiences <a href="https://www.linkedin.com/in/emmanoe-delar-241524189/" target="_blank">on Linkedin</a>
